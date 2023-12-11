@@ -1,4 +1,4 @@
-Live:  [link](https://jumpjack.github.io/swfobject/index.html) 
+Live:  [link](https://jumpjack.github.io/swfobject/swfobject/index.html) 
 
 = --- IMPORTANT UPDATE ---
 
