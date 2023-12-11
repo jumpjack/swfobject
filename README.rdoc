@@ -1,3 +1,5 @@
+Live:  link[https://jumpjack.github.io/swfobject/index.html] 
+
 = --- IMPORTANT UPDATE ---
 
 SWFObject is no longer in active development. Flash Player is on the decline, and the authors of SWFObject have moved on to other projects. This project is being left on GitHub for historical purposes.
